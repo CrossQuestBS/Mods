@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "mod.quest-patcher",
+    "Name": "QuestPatcher",
+    "DownloadUrl": "https://github.com/CrossQuestBS/QuestPatcher/archive/refs/heads/1.42.0.zip"
+  },
+  {
+    "Id": "mod.oculus-patcher",
+    "Name": "OculusPatcher",
+    "DownloadUrl": "https://github.com/CrossQuestBS/OculusPatcher/archive/refs/heads/1.42.0.zip"
+  },
+  {
+    "Id": "mod.image-cover-expander",
+    "Name": "ImageCoverExpander",
+    "DownloadUrl": "https://github.com/CrossQuestBS/ImageCoverExpander/archive/refs/heads/1.42.0.zip"
+  },
+  {
+    "Id": "mod.custom-song-enabler",
+    "Name": "CustomSongEnabler",
+    "DownloadUrl": "https://github.com/CrossQuestBS/CustomSongEnabler/archive/refs/heads/1.42.0.zip"
+  }
+]
