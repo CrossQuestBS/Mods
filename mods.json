@@ -2,24 +2,28 @@
   {
     "Id": "mod.quest-patcher",
     "Name": "QuestPatcher",
+    "Description": "Modifies game to work on Quest",
     "DownloadUrl": "https://github.com/CrossQuestBS/QuestPatcher/archive/refs/heads/1.42.0.zip",
     "Required": true
   },
   {
     "Id": "mod.oculus-patcher",
     "Name": "OculusPatcher",
+    "Description": "Modifies game to compile with Oculus Platform SDK",
     "DownloadUrl": "https://github.com/CrossQuestBS/OculusPatcher/archive/refs/heads/1.42.0.zip",
     "Required": true
   },
   {
     "Id": "mod.image-cover-expander",
     "Name": "ImageCoverExpander",
+    "Description": "Beat Saber mod that expands the artwork cover of a song. ",
     "DownloadUrl": "https://github.com/CrossQuestBS/ImageCoverExpander/archive/refs/heads/1.42.0.zip",
     "Required": false
   },
   {
     "Id": "mod.custom-song-enabler",
     "Name": "CustomSongEnabler",
+    "Description": "Beat Saber mod that enables custom songs",
     "DownloadUrl": "https://github.com/CrossQuestBS/CustomSongEnabler/archive/refs/heads/1.42.0.zip",
     "Required": false
   }
