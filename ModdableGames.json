@@ -35,5 +35,13 @@
         "Required": false
       }
     ]
+  },
+  {
+    "Name": "Beat Saber",
+    "PackageId": "com.beatgames.beatsaber",
+    "Version": "1.41.0",
+    "UnityVersion": "6000.0.40f1",
+    "BaseProjectUrl": "",
+    "Mods": []
   }
 ]
