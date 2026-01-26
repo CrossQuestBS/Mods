@@ -14,13 +14,6 @@
         "Required": true
       },
       {
-        "Description": "Modifies game to compile with Oculus Platform SDK",
-        "DownloadUrl": "https://github.com/CrossQuestBS/OculusPatcher/archive/refs/heads/1.42.0.zip",
-        "Id": "mod.oculus-patcher",
-        "Name": "OculusPatcher",
-        "Required": true
-      },
-      {
         "Description": "Beat Saber mod that expands the artwork cover of a song. ",
         "DownloadUrl": "https://github.com/CrossQuestBS/ImageCoverExpander/archive/refs/heads/1.42.0.zip",
         "Id": "mod.image-cover-expander",
