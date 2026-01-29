@@ -11,14 +11,16 @@
         "DownloadUrl": "https://github.com/CrossQuestBS/QuestPatcher/archive/refs/heads/1.42.0.zip",
         "Id": "mod.quest-patcher",
         "Name": "QuestPatcher",
-        "Required": true
+        "Required": true,
+        "Publicize": []
       },
        {
         "Description": "Patching library",
         "DownloadUrl": "https://github.com/CrossQuestBS/CrossPatcher/archive/refs/heads/1.42.0.zip",
         "Id": "lib.cross-patcher",
         "Name": "CrossPatcher",
-        "Required": true
+        "Required": true,
+        "Publicize": []
       },
       {
         "Description": "Beat Saber mod that expands the artwork cover of a song. ",
@@ -26,27 +28,27 @@
         "Id": "mod.image-cover-expander",
         "Name": "ImageCoverExpander",
         "Required": false,
-        "Extra": {
         "Publicize": [
             "Main.dll",
             "BeatSaber.ViewSystem.dll"
           ]
-        }
       },
       {
         "Description": "Beat Saber mod that enables custom songs",
         "DownloadUrl": "https://github.com/CrossQuestBS/CustomSongEnabler/archive/refs/heads/1.42.0.zip",
         "Id": "mod.custom-song-enabler",
         "Name": "CustomSongEnabler",
-        "Required": false
+        "Required": false,
+        "Publicize": []
       },
       {
         "Description": "Port of ExitRoulette mod by speecil for testing",
         "DownloadUrl": "https://github.com/CrossQuestBS/ExitRoulette/archive/refs/heads/1.42.0.zip",
         "Id": "mod.exit-roulette",
         "Name": "ExitRoulette",
-        "Required": false
-      },
+        "Required": false,
+        "Publicize": []
+      }
     ]
   },
   {
