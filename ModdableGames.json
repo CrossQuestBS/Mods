@@ -25,7 +25,13 @@
         "DownloadUrl": "https://github.com/CrossQuestBS/ImageCoverExpander/archive/refs/heads/1.42.0.zip",
         "Id": "mod.image-cover-expander",
         "Name": "ImageCoverExpander",
-        "Required": false
+        "Required": false,
+        "Extra": {
+        "Publicize": [
+            "Main.dll",
+            "BeatSaber.ViewSystem.dll"
+          ]
+        }
       },
       {
         "Description": "Beat Saber mod that enables custom songs",
