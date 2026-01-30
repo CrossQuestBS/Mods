@@ -20,7 +20,10 @@
         "Id": "lib.cross-patcher",
         "Name": "CrossPatcher",
         "Required": true,
-        "Publicize": []
+        "Publicize": [
+          "Main.dll",
+          "GameInit.dll"
+        ]
       },
       {
         "Description": "Beat Saber mod that expands the artwork cover of a song. ",
